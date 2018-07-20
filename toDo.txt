@@ -1,0 +1,21 @@
+------------------- Started -------------------
+
+--------------- Not Started Yet ---------------
++ add new maps, 2 to 4 more with all features: backgrounds, breakables etc.
++ add level editor
+
+------------------ Completed ------------------
++ convert levels to JSON
++ end-game screen
++ add JSON features
++ add offscreen arrows
++ add "smash ball"
++ add safe zone that closes to make round faster
++ add controls screen
++ add strucutre textures
++ add backgrounds
+
+------------------ Scrapped -------------------
++ add new items
++ add special mode timer plus graphics
++ add kill animation (done freezing when killed)

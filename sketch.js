@@ -78,6 +78,7 @@ function UrlExists(url) {           //function to check if a file exists
 }
 
 function setup() {
+    document.title = "Cubez";
     createCanvas(1000, 500);
     frameRate(60);
     angleMode(DEGREES);
